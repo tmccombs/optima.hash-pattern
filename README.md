@@ -32,7 +32,7 @@ but matches agains a hash-table rather than a plist
 
 ### Syntax:
 
-	(hastable {KEY PATTERN}*)
+	(hashtable {KEY PATTERN}*)
 
 ### Expansion:
 
